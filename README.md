@@ -19,10 +19,8 @@ When you complete the quiz🧩, a pop will appear.
 
 Click [here](https://user-images.githubusercontent.com/115228605/196026978-75fd421c-af40-48dc-b8c8-c4fbb65e7b58.mp4) to see👀 the preview. 
 
-|
-|
-|
-If you're really into quizzes, then just download [quizzeasy app](https://github.com/Priyank-Bhagat/quizzeasy/raw/master/appb/quizzeasy.apk) and give it a go.
+
+👉If you're really into quizzes, then just download [quizzeasy app](https://github.com/Priyank-Bhagat/quizzeasy/raw/master/appb/quizzeasy.apk) and give it a go.👈
 
 
 
