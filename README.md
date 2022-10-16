@@ -4,7 +4,7 @@
 
 # quizzeasy
 
-Quizzeasy app is a quiz app that tests your general knowledge📚 and common sense🧠.
+Quizzeasy app is a quiz🧩 app that tests your general knowledge📚 and common sense🧠.
 
 
 ## Demo
@@ -14,6 +14,13 @@ If you want to know "how smart you are"👨‍🎓, then just open the app and j
 <p> 
     <img width="200" src="https://user-images.githubusercontent.com/115228605/196026904-59b83b04-581f-48a6-9005-400f2f01a764.png" alt="something was here🤔">
 </p>
+
+When you complete the quiz🧩, a pop will appear.
+
+Click [here](https://user-images.githubusercontent.com/115228605/196026978-75fd421c-af40-48dc-b8c8-c4fbb65e7b58.mp4) to see👀 the preview. 
+
+
+
 
 
 
