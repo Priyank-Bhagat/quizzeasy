@@ -1,6 +1,21 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/115228605/196026795-870820f1-2032-4846-b63f-b608e33ca95d.png" alt="something was here🤔">
+</p>
+
 # quizzeasy
 
-A new Flutter project.
+Quizzeasy app is a quiz app that tests your general knowledge📚 and common sense🧠.
+
+
+## Demo
+
+If you want to know "how smart you are"👨‍🎓, then just open the app and just read the question and click on true✅ or false❌ accordingly.
+
+<p> 
+    <img width="200" src="https://user-images.githubusercontent.com/115228605/196026904-59b83b04-581f-48a6-9005-400f2f01a764.png" alt="something was here🤔">
+</p>
+
+
 
 ## Getting Started
 
