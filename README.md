@@ -20,10 +20,6 @@ When you complete the quiz🧩, a pop will appear.
 Click [here](https://user-images.githubusercontent.com/115228605/196026978-75fd421c-af40-48dc-b8c8-c4fbb65e7b58.mp4) to see👀 the preview. 
 
 
-## Download
-
-If you're really into quizzes, then just
-👉[Download ](https://mega.nz/file/c6Ux0bzS#L58ahh5AR95IMt-aJW1VeP9vKkA5N6FwHxcobH0sIo0)👈The Quizeasy App and give it a go.
 
 
 
